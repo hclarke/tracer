@@ -1,0 +1,7 @@
+[package]
+name = "tracer"
+version = "0.1.0"
+authors = ["harrison <notallama@gmail.com>"]
+
+[dependencies]
+png_encode_mini = "*"

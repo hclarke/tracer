@@ -1,0 +1,14 @@
+[root]
+name = "tracer"
+version = "0.1.0"
+dependencies = [
+ "png_encode_mini 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "png_encode_mini"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum png_encode_mini 0.1.2 (registry+https://github.com/rust-lang/crates.io-index)" = "116ae962ea1a679f99915c2c53dc470b45aaf6b42e607580d16fce8c6248f666"
